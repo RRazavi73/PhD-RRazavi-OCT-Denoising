@@ -1,11 +1,8 @@
-# PhD-RRazavi-OCT-Denoising
+# Study of Atomic Representation: Combining Appropriate Atoms for OCT Images
 
-
-## Study of Atomic Representation: Combining Appropriate Atoms for OCT Images
-
-You can find the datasets used in the paper in the datasets folder.
+You can find the datasets used in the paper in the different dataset folders.
 
 In case of using the skin dataset and our codes please cite our paper. 
 
-We test our proposed method on other three datasets which need to be cited from the original papers as in our paper.
-
+The other three datasets (or a selection of the data) are barrowed from other papers. The original papers are cited in our paper.
+ 
