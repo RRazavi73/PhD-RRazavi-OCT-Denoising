@@ -1,0 +1,80 @@
+#Img 1
+img =  imcrop(img,[1 1 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 1 cols-1 280-1]);
+
+#Img 2
+img =  imcrop(img,[1 10 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 10 cols-1 280-1]);
+ 
+#Img 3
+img =  imcrop(img,[1 20 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 20 cols-1 280-1]);
+
+
+#Img 4
+img =  imcrop(img,[1 25 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 25 cols-1 280-1]);
+
+#Img 5
+img =  imcrop(img,[1 1 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 1 cols-1 280-1]);
+
+#Img 6
+img =  imcrop(img,[1 95 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 95 cols-1 280-1]);
+
+
+#Img 7
+img =  imcrop(img,[1 1 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 1 cols-1 280-1]);
+
+
+#Img 8
+img =  imcrop(img,[1 1 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 1 cols-1 280-1]);
+
+
+#Im9
+img =  imcrop(img,[1 75 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 75 cols-1 280-1]);
+
+
+#Im10
+img =  imcrop(img,[1 60 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 60 cols-1 280-1]);
+
+
+#Im11
+img =  imcrop(img,[1 95 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 95 cols-1 280-1]);
+
+ 
+#Im12
+img =  imcrop(img,[1 140 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 140 cols-1 280-1]);
+
+
+#Im13
+img =  imcrop(img,[1 110 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 110 cols-1 280-1]);
+
+
+#Im14
+img =  imcrop(img,[1 1 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 1 cols-1 280-1]);
+
+ 
+#Im15
+img =  imcrop(img,[1 1 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 1 cols-1 280-1]);
+
+
+#Im16
+img =  imcrop(img,[1 1 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 1 cols-1 280-1]);
+
+
+#Img 17
+img =  imcrop(img,[1 1 cols-1 280-1]);
+ref_img = imcrop(ref_img,[1 1 cols-1 280-1]);
+
