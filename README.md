@@ -8,6 +8,6 @@ The other three datasets (or a selection of the data) are barrowed from other pa
  
 There is a review on the non-data-adaptive transforms as a supplimentary section of the paper that can be found on our website and here.
 
-# A Short Review on Non-data-adaptive Multiscale Transforms, Application to Atomic Representation of OCT Images 
+"A Short Review on Non-data-adaptive Multiscale Transforms, Application to Atomic Representation of OCT Images"
 
 In case of any question please contact us :)
